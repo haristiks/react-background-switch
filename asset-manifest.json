@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-background-switch/static/css/main.74241948.css",
+    "main.js": "/react-background-switch/static/js/main.ff0d5fa9.js",
+    "static/js/787.001b8e9b.chunk.js": "/react-background-switch/static/js/787.001b8e9b.chunk.js",
+    "index.html": "/react-background-switch/index.html",
+    "main.74241948.css.map": "/react-background-switch/static/css/main.74241948.css.map",
+    "main.ff0d5fa9.js.map": "/react-background-switch/static/js/main.ff0d5fa9.js.map",
+    "787.001b8e9b.chunk.js.map": "/react-background-switch/static/js/787.001b8e9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74241948.css",
+    "static/js/main.ff0d5fa9.js"
+  ]
+}
